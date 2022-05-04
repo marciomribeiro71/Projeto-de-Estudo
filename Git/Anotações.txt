@@ -1,0 +1,12 @@
+comandos
+ls -a -> exibe arquivos ocultos
+mkdir <nome pasta> ->cria pasta
+
+Comandos Git Bash
+Clonagem de repositório
+git clone <endereço repositório> -> o endereço pode ser o link do GitHub, https, SSH ou linha de commando.
+git status -> status do repositório
+git add . -> acrescenta arquivos ao repositório
+git commit -m "Comentário" -> comando para garantir as alterações
+Após "commitar" as informações, será necessário enviá-las ao repositório com o comando abaixo:
+git push origin main -> onde main é o nome da branch
