@@ -10,3 +10,4 @@ git add . -> acrescenta arquivos ao repositório
 git commit -m "Comentário" -> comando para garantir as alterações
 Após "commitar" as informações, será necessário enviá-las ao repositório com o comando abaixo:
 git push origin main -> onde main é o nome da branch
+git
